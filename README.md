@@ -1,6 +1,6 @@
 # Readme for the Housing EDA Project
 
-T
+
 
 ## Requirements
 
@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 ### Notebooks
 
-You can find the notebook used to perform the EDA as EDA_clean.ipynb. IF you seek to know about analysis, which were later discared (e.g.FFT), you may want to have a look at the EDA.ipynb. Furthermore you find the presenation for the client in form of the keynote presenation and as a pdf. 
+You can find the notebook used to perform the EDA as EDA_clean.ipynb. If you seek to know about analysis, which were later discarded (e.g.FFT), you may want to have a look at the EDA.ipynb. Furthermore you find the presenation for the client in form of the keynote presenation and as a pdf. 
